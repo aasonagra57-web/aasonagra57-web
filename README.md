@@ -31,6 +31,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasonagra57-web&show_icons=true&hide_border=true&theme=tokyonight)
+
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aasonagra57-web&theme=tokyonight&hide_border=true)
+
+
 ## Connect
 - GitHub: https://github.com/aasonagra57-web
 
