@@ -41,6 +41,18 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=aasonagra57-web&theme=tokyonight&hide_border=true)
 
 
+## 🏆 Learning Badges & Achievements
+
+### 💻 HackerRank — C++
+[![HackerRank C++ Badge](https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg)](https://www.hackerrank.com/)
+
+### 🌐 Cisco Networking Academy
+[![Cisco Networking Academy Badge](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/ec7b044a-3368-4bc3-8eaf-1872a41780b2.png)](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/ec7b044a-3368-4bc3-8eaf-1872a41780b2.png)
+
+### 🔐 IBM Skillsbuild
+[![IBM Badge](https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/organizations/tryhackme/badges)
+
+
 ## Connect
 - GitHub: https://github.com/aasonagra57-web
 
